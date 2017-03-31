@@ -1,14 +1,16 @@
 ---
 # # # # # # # # # #
-#  K i k o f r i  #
+#  A L W A Y S 
+#      B E
+# C A S T I N G
 # # # # # # # # # #
 
 # Basic
-name: "K i k o f r i"
-description: "dirty and malnourished jekyll theme"
+name: "Always Be Casting"
+description: ""
 
 # URL
-url: ""
+url: "http://always-be-casting.github.io"
 #baseurl: ""
 permalink: /:year/:month/:day/:title.html
 
@@ -24,7 +26,7 @@ nav:
    href: "/ref"
 
  - name: "contact"
-   href: "mailto:ivantheterrible@1530to1584.gov?You%20are%20ooold..."
+   href: "mailto:alwaysbecasting1@gmail.com"
 
 # Sass
 sass:
