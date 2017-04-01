@@ -1,7 +1,7 @@
 ---
-title:        "Example content"
-description:  "A short description of the page's content"
-author:       "P.J."
+title:        "Post Ideas"
+description:  "The first step to having shitty ideas is to have ideas"
+author:       ""
 ---
 
 <style>
@@ -17,75 +17,107 @@ author:       "P.J."
 }
 </style>
 
-<p class="lead">If I were asked to answer the following question: WHAT IS SLAVERY? and I should answer in one word, IT IS MURDER, my meaning would be understood at once.</p>
+# Episode Ideas
+- Janky Cast Iron Foods
+- Life Advice
+- History vs. Numbers
+- How to Write a Thesis
+- Gene: The man, the myth, the legend
+- 2016 Election Cycle
+- Self Driving Cars
+- Security
+- Potpourri of Stupid Shit 
+- College
+- Entertainment Reviews
+- Montreal
+- Craft & Hipster Phenomena 
+- Things We Don't Get
+- Art Critique
+- Sport Talk 
+- Conspiracy Theories
 
-No extended argument would be required to show that the power to take from a man his thought, his will, his personality, is a power of life and death; and that to enslave a man is to kill him. Why, then, to this other question: WHAT IS PROPERTY! may I not likewise answer, IT IS THEFT, without the certainty of being misunderstood; the second proposition being no other than a transformation of the first?.
 
-## PROPERTY IS THEFT! . . .
-What a revolution in human ideas! PROPRIETOR and THIEF have been at all times expressions as contradictory as the beings whom they designate are hostile; all languages have perpetuated this opposition.
+#### 2016 Election Cycle
+- Gif Theory : Trump's Gif-ability and Electability
+- Best Countries to Flee To
+- Petty Complaints
+- Hillary's Email Server
+- Election Drinking Games
+- FiveThirtyEight
 
-### My name, like yours, is...
-Of what consequence to you, reader, is my obscure individuality? I live, like you, in a century in which reason submits only to fact and to evidence. My name, like yours, is TRUTH- SEEKER.[1] My mission is written in these words of the law: SPEAK WITHOUT HATRED AND WITHOUT FEAR; TELL THAT WHICH THOU KNOWEST!  
-µµThe work of our race is to build the temple of science, and this science includes man and Nature. Now, truth reveals itself to all; to-day to Newton and Pascal, tomorrow to the herdsman in the valley and the journeyman in the shop. Each one contributes his stone to the edifice; and, his task accomplished, disappears. Eternity precedes us, eternity follows us: between two infinites, of what account is one poor mortal that the century should inquire about him?
+#### Self Driving Cars 
+- Industry Use
+- Legal Issues
+- Tweetin' & Drivin' : banal uses of self-driving capability
+- Car & Driving Culture
+- Ideal Self Driving Car Ideas
 
-> [1] In Greek, {GREEK e ncg } examiner; a philosopher whose business is to seek the truth.
+#### Security
+- Encryption for Stupid Shit
+- Overly Casual Non-sequiters 
+- Nitesh
 
-## Universal Error
-Disregard then, reader, my title and my character, and attend only to my arguments. It is in accordance with universal consent that I undertake to correct universal error; from the OPINION of the human race I appeal to its FAITH.
+#### College
+- Yik-Yak & And Social Media
+- Jank Drank
+- The Life and Times of w1ntrop st : college living dynamics
+- Academia
+- College Food
+    - Blue Zone
+    - Pranzi's and the Locals
 
-```user@terminal: ~$ echo "error"```  
-```error```
+#### Montreal 
+- Drugs, or how to meet strangers
+- Cathedral 
+- Patati Patata 
+- Schwarz 
+- Kabinet
+- Space Queen Chess
+- Bagels 
 
-### Golem
-Others offer you the spectacle of genius wresting Nature's secrets from her, and unfolding before you her sublime messages; you will find here only a series of experiments upon JUSTICE and RIGHT... The operations shall be conducted under your very eyes; and you shall weigh the result.
+#### Craft & Hipster Phenomena 
+- Beer
+- Cocktails 
+- Coffee
+- Phenomenon & Culture 
+- Rampant Self-Denial 
+- Bottle & Bottle Cap Collection
 
-Nevertheless, I build no system. I ask:
+#### Things We Don't Get 
+- Snuggies 
+- Strict Constitutionalism
+- Public Venmo Transactions
+- Drones 
+- 3D printing
+- Horses
+- Sinkholes : why? what's the deal? 
 
-* An End To Privilege, 
-* The Abolition Of Slavery, 
-* Equality Of Rights,
-* The Reign Of Law.
+#### Art Critique 
+- Picasso 
+- Starry Night
+- Michelangelo's David
+- Mona Lisa
+- Great Wave of Kanagawa
+- Ceiling of the Sistine Chapel
+- Yo Yo Ma's Bach Cello Suites 
+- Wagner's Ring Cycle
+- The Beatles
+- Andy Warhol
 
-1. Justice, 
-2. Nothing Else; 
-3. That Is The Alpha And Omega Of My Argument
+#### Sport Talk 
+- Facebook Messenger Basketball
+- RC Racing & Other Weird YouTube Sports
+- Olympics + Zika = ? 
+- Drinking as a Sport : Tufting
+- Sport Recommendations for Various Body Types
+- Queso : A 3-minute Oral History of the 2014 Super Bowl
 
-A defender of equality, I shall speak without bitterness and without anger; with the independence becoming a philosopher, with the courage and firmness of a free man.
-
-kramdown
-: A Markdown-superset converter
-
-Maruku
-: Another Markdown-superset converter
-
-[What is Property?](https://en.wikisource.org/wiki/What_is_Property%3F "By P.J. Proudhon.")
-: Not a Markdown-superset converter
-
-May I, in this momentous struggle, carry into all hearts the light with which I am filled; and show, by the success of my argument, that equality failed to conquer by the sword only that it might conquer by the pen!
-
-##### 540px #
-![Large example image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Placeholder_4-3.svg/540px-Placeholder_4-3.svg.png "Large example image")
-
-##### 360px #
-![Medium example image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Placeholder_4-3.svg/360px-Placeholder_4-3.svg.png "Medium example image")
-
-##### 180px #
-![Small example image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Placeholder_4-3.svg/180px-Placeholder_4-3.svg.png "Small example image")
-
-But I must say that I recognized at once that we had never understood the meaning of these words, so common and yet so sacred: JUSTICE, EQUITY, LIBERTY.
-
-|-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
-|-----------------+------------+-----------------+----------------|
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-|=================+============+=================+================|
-| Footer row      |            |                 |                |
-|-----------------+------------+-----------------+----------------|
-
-That concerning each of these principles our ideas have been utterly obscure; and, in fact, that this ignorance was the sole cause, both of the poverty that devours us, and of all the calamities that have ever afflicted the human race.
-
+#### Conspiracy Theories
+- Bush did 9/11
+- Auto-Generated Conspiracy Theories
+- Ted Cruz is the Zodiac Killer
+- Flat-Earth Truthers
+- Missing Time Theory 
+- Denver Airport
+- Hillary is a UFO Truther
+- The   L O S T   Font  :  it's everywhere!
